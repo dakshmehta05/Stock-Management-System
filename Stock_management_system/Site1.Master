@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Stock_management_system.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            border-style: solid;
+            border-width: 4px;
+        }
+        .auto-style2 {
+            width: 50px;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1 align="center">Stock Management System</h1>
+        <hr />
+        <br />
+
+    <form id="form1" runat="server">
+        <table align="center" cellpadding="4" cellspacing="8" class="auto-style1">
+            <tr>
+                <td>
+                    <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="home.aspx">Home</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton2" runat="server" PostBackUrl="~/new_supplier.aspx">New Supplier</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton3" runat="server" PostBackUrl="~/search_supplier.aspx">Search Supplier</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton4" runat="server" PostBackUrl="~/all_supplier.aspx">All Suppliers</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton5" runat="server" PostBackUrl="~/new_customer.aspx">New Customer</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton6" runat="server" PostBackUrl="~/search_customer.aspx">Search Customer</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton7" runat="server" PostBackUrl="~/all_customer.aspx">All Customer</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton8" runat="server" PostBackUrl="~/purchase.aspx">Purchase</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton9" runat="server" PostBackUrl="~/sell.aspx">Sell</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton11" runat="server" PostBackUrl="~/view.aspx" >View</asp:LinkButton>
+                </td>
+                <td class="auto-style2">
+                    <asp:LinkButton ID="LinkButton12" runat="server" PostBackUrl="~/stock.aspx" >Stock</asp:LinkButton>
+                </td>
+                <td class="auto-style2">
+                    <asp:LinkButton ID="LinkButton13" runat="server" PostBackUrl="~/changepass_admin.aspx">Change Password</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton10" runat="server" PostBackUrl="~/logout.aspx" OnClick="LinkButton10_Click">Logout</asp:LinkButton>
+                </td>
+            </tr>
+        </table>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+        </center>
+    <p>
+        &nbsp;</p>
+</body>
+</html>

@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual\\project\\Stock_management_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|d:\\visual\\project\\stock_management_system\\stock_management_system\\new_supplier.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\new_supplier.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\new_supplier.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\new_supplier.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\purchase.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\purchase.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\purchase.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\purchase.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\new_customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\new_customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\new_customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\new_customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\changepass_supplier.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\changepass_supplier.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\changepass_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\changepass_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\changepass_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\changepass_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\all_customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\all_customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\changepass_cutomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\changepass_cutomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\changepass_supplier.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\changepass_supplier.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\profile_customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\profile_customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\profile_customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\profile_customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\profile_supplier.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\profile_supplier.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\view.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\view.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\view.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\view.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\stock.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\stock.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\stock.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\stock.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\sell.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\sell.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\my_sell.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\my_sell.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\all_supplier.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\all_supplier.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\all_supplier.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\all_supplier.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|D:\\visual\\project\\Stock_management_system\\stock_management_system\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E6BC0-FC7B-4051-8970-9D7C45885C86}|Stock_management_system\\Stock_management_system.csproj|solutionrelative:stock_management_system\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "new_customer.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\new_customer.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\new_customer.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\new_customer.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\new_customer.aspx.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:11:52.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "purchase.aspx",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\purchase.aspx",
+              "RelativeDocumentMoniker": "Stock_management_system\\purchase.aspx",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\purchase.aspx",
+              "RelativeToolTip": "Stock_management_system\\purchase.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T11:22:48.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "purchase.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\purchase.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\purchase.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\purchase.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\purchase.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:12:29.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "new_supplier.aspx",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\new_supplier.aspx",
+              "RelativeDocumentMoniker": "Stock_management_system\\new_supplier.aspx",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\new_supplier.aspx",
+              "RelativeToolTip": "Stock_management_system\\new_supplier.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T11:04:49.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\Site1.Master",
+              "RelativeDocumentMoniker": "Stock_management_system\\Site1.Master",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\Site1.Master",
+              "RelativeToolTip": "Stock_management_system\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T11:42:28.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "new_customer.aspx",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\new_customer.aspx",
+              "RelativeDocumentMoniker": "Stock_management_system\\new_customer.aspx",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\new_customer.aspx",
+              "RelativeToolTip": "Stock_management_system\\new_customer.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T11:24:44.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "new_supplier.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\new_supplier.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\new_supplier.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\new_supplier.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\new_supplier.aspx.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAvwDEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:08:15.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "changepass_supplier.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\changepass_supplier.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\changepass_supplier.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\changepass_supplier.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\changepass_supplier.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwDEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:46:44.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "changepass_cutomer.aspx",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\changepass_cutomer.aspx",
+              "RelativeDocumentMoniker": "Stock_management_system\\changepass_cutomer.aspx",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\changepass_cutomer.aspx",
+              "RelativeToolTip": "Stock_management_system\\changepass_cutomer.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T12:30:51.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "changepass_admin.aspx",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\changepass_admin.aspx",
+              "RelativeDocumentMoniker": "Stock_management_system\\changepass_admin.aspx",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\changepass_admin.aspx",
+              "RelativeToolTip": "Stock_management_system\\changepass_admin.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T12:45:17.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "changepass_admin.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\changepass_admin.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\changepass_admin.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\changepass_admin.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\changepass_admin.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T12:48:07.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "profile_customer.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\profile_customer.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\profile_customer.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\profile_customer.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\profile_customer.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawCUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T12:28:47.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "all_customer.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\all_customer.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\all_customer.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\all_customer.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\all_customer.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwBgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:27:59.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "profile_customer.aspx",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\profile_customer.aspx",
+              "RelativeDocumentMoniker": "Stock_management_system\\profile_customer.aspx",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\profile_customer.aspx",
+              "RelativeToolTip": "Stock_management_system\\profile_customer.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T12:28:00.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "changepass_supplier.aspx",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\changepass_supplier.aspx",
+              "RelativeDocumentMoniker": "Stock_management_system\\changepass_supplier.aspx",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\changepass_supplier.aspx",
+              "RelativeToolTip": "Stock_management_system\\changepass_supplier.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T11:46:40.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "profile_supplier.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\profile_supplier.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\profile_supplier.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\profile_supplier.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\profile_supplier.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T12:27:49.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "stock.aspx",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\stock.aspx",
+              "RelativeDocumentMoniker": "Stock_management_system\\stock.aspx",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\stock.aspx",
+              "RelativeToolTip": "Stock_management_system\\stock.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T11:46:06.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "view.aspx",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\view.aspx",
+              "RelativeDocumentMoniker": "Stock_management_system\\view.aspx",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\view.aspx",
+              "RelativeToolTip": "Stock_management_system\\view.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T11:44:05.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "stock.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\stock.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\stock.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\stock.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\stock.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:16:17.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "view.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\view.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\view.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\view.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\view.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAhwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:16:27.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "my_sell.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\my_sell.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\my_sell.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\my_sell.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\my_sell.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:35:29.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "sell.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\sell.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\sell.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\sell.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\sell.aspx.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:18:08.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "all_supplier.aspx",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\all_supplier.aspx",
+              "RelativeDocumentMoniker": "Stock_management_system\\all_supplier.aspx",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\all_supplier.aspx",
+              "RelativeToolTip": "Stock_management_system\\all_supplier.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T11:22:06.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "all_supplier.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\all_supplier.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\all_supplier.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\all_supplier.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\all_supplier.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:22:10.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\login.aspx.cs",
+              "RelativeDocumentMoniker": "Stock_management_system\\login.aspx.cs",
+              "ToolTip": "D:\\visual\\project\\Stock_management_system\\Stock_management_system\\login.aspx.cs",
+              "RelativeToolTip": "Stock_management_system\\login.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:07:55.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
